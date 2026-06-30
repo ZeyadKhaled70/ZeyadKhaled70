@@ -1,4 +1,4 @@
-<h1 align="center">Zeyad Khaled</h1>
+<!-- <h1 align="center">Zeyad Khaled</h1>
 
 <p align="center">
   <em>Final-Year Mechatronics Engineering Student | Robotics & Autonomous Systems Engineer | ROS 2 Developer</em>
@@ -210,4 +210,4 @@ A ROS 2-based intelligent mobile robot designed for indoor autonomous delivery.
 
 > **"Building intelligent robots that solve real-world problems."**
 
-</p>
+</p> -->
